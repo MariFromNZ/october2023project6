@@ -1,0 +1,24 @@
+.block {
+    background-color: rgb(72, 134, 134);
+}
+
+.block h2 {
+    text-align: center;
+    color: rgb(231, 231, 236);
+}
+
+.block p.text {
+    color: rgb(231, 230, 240);
+}
+
+.block button.btn {
+    font-size: 30px;
+    background-color: rgb(115, 115, 190);
+}
+
+.block button.btn-info {
+    font-weight: 700;
+}
+body {
+    background-color: rgb(199, 241, 241);
+}
